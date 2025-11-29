@@ -23,4 +23,4 @@ Windows Registry Editor Version 5.00
 [HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Services\Wecsvc]
 "Start"=dword:00000004
 
--Made by Tweakrz
+-Made by Sopy
